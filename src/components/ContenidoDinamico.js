@@ -18,7 +18,7 @@ export const ContenidoDinamico = () => {
     "Desarrollado por MurderCrack29.",
     "AimGYM esta disponible ya, aunque esta en un estado sin terminar y sin pulir, dado que es un proyecto sin presupuesto y sin animo de lucro, solo pue por diversion:    ",
   ];
-
+  //Sexo mensaje subliminal
   return (
     <div>
       <div className="Botones">
