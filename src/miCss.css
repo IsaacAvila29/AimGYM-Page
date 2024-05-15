@@ -42,3 +42,6 @@ body {
   width: 200px;
   font-size: 20px;
 }
+a {
+  background-color: aliceblue;
+}
